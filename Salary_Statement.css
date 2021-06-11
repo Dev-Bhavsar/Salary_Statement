@@ -1,0 +1,20 @@
+body{
+	background-image: url("background.jfif");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+button{
+	background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(161,255,255,1) 11.3%, rgba(6,255,255,1) 41.2%, rgba(0,216,216,1) 77.8% );
+}
+
+.input{
+	padding: 20px;
+}
+.input input{
+	margin: 20px 0px;
+	outline: none;
+	padding: 7px;
+	border: 0px;
+	border-radius: 5px;
+}
